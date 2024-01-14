@@ -1,4 +1,4 @@
-#                                                    GeeksforGeeks POTD-Find duplicate rows in a binary matrix
+#                                                    GeeksforGeeks POTD-Find duplicate rows in a binary matrix 
 #--------------------------------------------------------------------------------------------------------------------------------------------------------
 # Given a boolean matrix of size RxC where each cell contains either 0 or 1, find the row numbers (0-based) of row which already exists or are repeated.
 # Example 1:
